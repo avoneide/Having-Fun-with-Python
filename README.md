@@ -1,2 +1,2 @@
 # Having-Fun-with-Python
-Self Taught Journey with Data Science
+I take this time in isolcation to teach myself data science.
